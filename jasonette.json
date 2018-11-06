@@ -12,8 +12,12 @@
       "footer": {
         "tabs": {
           "items": [{
-            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
-            "url": "https://h-meeting.herokuapp.com/#/"
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "href": {
+              "url": "https://hamiltonapps.com/workplace/",
+              "view": "web"
+            }
           }, {
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
             "url": "https://hamiltonapps.com/workplace/",
