@@ -13,24 +13,27 @@
         "tabs": {
           "items": [{
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "text": "Meetings",
             "href": {
               "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/jasonette.json",
               "view": "jason"
             }
           }, {
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "text": "Visitors",
             "href": {
               "url": "https://hamiltonapps.com/visitor-management-software-hamilton/",
               "view": "web"
             }
           }, {
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "text": "Workplace",
             "href": {
               "url": "https://hamiltonapps.com/workplace/",
               "view": "web"
             }
           }, {
-            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/home.png",
             "text": "refresh",
             "action": {
               "type": "$network.request",
