@@ -29,6 +29,18 @@
               "url": "https://hamiltonapps.com/workplace/",
               "view": "web"
             }
+          }, {
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "text": "refresh",
+            "action": {
+              "type": "$network.request",
+              "options": {
+                "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/jasonette.json"
+              },
+              "success": {
+                "type": "$render"
+              }
+            }
           }]
         }
       }
