@@ -14,8 +14,8 @@
           "items": [{
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
             "href": {
-              "url": "https://google.com/",
-              "view": "web"
+              "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/jasonette.json",
+              "view": "jason"
             }
           }, {
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
