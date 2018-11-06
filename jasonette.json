@@ -8,6 +8,20 @@
         "type": "html",
         "url": "https://h-meeting.herokuapp.com/#/",
         "action": {"trigger": "navigate"}
+      },
+      "footer": {
+        "tabs": {
+          "items": [{
+            "image": "https://app.box.com/file/311154608427",
+            "url": ""
+          }, {
+            "image": "",
+            "url": ""
+          }, {
+            "image": "",
+            "url": ""
+          }]
+        }
       }
     }
   }
