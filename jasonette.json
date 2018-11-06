@@ -6,7 +6,8 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://h-meeting.herokuapp.com/#/"
+        "url": "https://h-meeting.herokuapp.com/#/",
+        "action": {"trigger": "navigate"}
       }
     }
   }
