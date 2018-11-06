@@ -13,11 +13,11 @@
         "tabs": {
           "items": [{
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
-            "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
-            "view": "web"
+            "url": "https://h-meeting.herokuapp.com/#/"
           }, {
-            "image": "",
-            "url": ""
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "url": "https://hamiltonapps.com/workplace/",
+            "view": "web"
           }, {
             "image": "",
             "url": ""
