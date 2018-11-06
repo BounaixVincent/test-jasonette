@@ -20,12 +20,15 @@
           }, {
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
             "href": {
-              "url": "https://hamiltonapps.com/workplace/",
+              "url": "https://hamiltonapps.com/visitor-management-software-hamilton/",
               "view": "web"
             }
           }, {
-            "image": "",
-            "url": ""
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "href": {
+              "url": "https://hamiltonapps.com/workplace/",
+              "view": "web"
+            }
           }]
         }
       }
