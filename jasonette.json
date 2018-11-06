@@ -12,7 +12,7 @@
       "footer": {
         "tabs": {
           "items": [{
-            "image": "https://public.boxcloud.com/api/2.0/internal_files/299835812630/versions/315640943462/representations/png_paged_2048x2048/content/1.png?access_token=1!oY92Ozmjd00aZ4-wLxXIWWqusHije172E5cLv7sdjQwfh-t53YPkLUN_HQgQae_UQxQmcmTnCnKpx_Lgu9Jh-BNTbpRYjtxAWLTZH-ttJdS5EWE3XHXjDEjw0GUc41VS9er90So6P9U7on2mOR3FVXMpdSSuyrz9mhErd8saIhGu4vjclimrrn2fQ7PbC0h1e_TlVYw6rOPv_vbIoVTg49goqVU1lcEC5TH6fA5y3A_IPBbVeC7hCC8LVD0PmmvQEKss2h5uJj7b8u1b5_Ybr8vN1rCsbGGEIKTJ7xdAJ3F1xUXoGtYAPjjog0pQS6qU9b5WZ5DYqyqVokwNmZOu0UtQLgoEBrq8LJm3Mz0iyy17VBx-Y-7TawuLIpv77GbkQXTvtHCf_8rv_3TcN8nJJPnU4B93KfhpugwXLP6Hum2Nc34j7BhcCniETYYLk5pQh_-7NAVFVs3jxXtk-Evh5gVmWEeD2VAZvwjubOcwonEvlgzJFS36iqrznf08qW92TP_Sgnmv8QOWGAWw1JDGbpI_7yHNcHg5yc5-FuoX133I-ZlfehKrdmtmm5hjDuK5-w..&box_client_name=box-content-preview&box_client_version=1.55.0",
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
             "href": {
               "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/jasonette.json",
               "view": "jason"
