@@ -13,10 +13,11 @@
         "tabs": {
           "items": [{
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
-            "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png"
+            "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "view": "web"
           }, {
-            "image": "iuYcOL0n93I_hQ7XI3Z_WNG8qcaEDzXfKt6GpoMpBOFFBb_lRD31zvsybLyIcWONol7NYYSbV4r9dD7poo3RcoWMSuV82w57FDfcaoM8eF5rfyBXUu5VZdqgWG16pvgo14lAn0NyAo8FqdWr9QF7WXIc3ddww3inReobiaXJXECdPjr7ytMlrc8hJUnWP9WCuoALZLGED7e8vHBrhvYo1szGmiwSKUdIKskyBpwvY3vrnXrTVem5skfwyw9S6aKns3UqS3aj2P53R3zwWvS5k73hsY6n0",
-            "url": "iuYcOL0n93I_hQ7XI3Z_WNG8qcaEDzXfKt6GpoMpBOFFBb_lRD31zvsybLyIcWONol7NYYSbV4r9dD7poo3RcoWMSuV82w57FDfcaoM8eF5rfyBXUu5VZdqgWG16pvgo14lAn0NyAo8FqdWr9QF7WXIc3ddww3inReobiaXJXECdPjr7ytMlrc8hJUnWP9WCuoALZLGED7e8vHBrhvYo1szGmiwSKUdIKskyBpwvY3vrnXrTVem5skfwyw9S6aKns3UqS3aj2P53R3zwWvS5k73hsY6n0"
+            "image": "",
+            "url": ""
           }, {
             "image": "",
             "url": ""
