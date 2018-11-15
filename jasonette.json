@@ -17,6 +17,9 @@
             "href": {
               "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/jasonette.json",
               "view": "jason"
+            },
+            "style": {
+              "height": "21"
             }
           }, {
             "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton%20Visitor.ico",
