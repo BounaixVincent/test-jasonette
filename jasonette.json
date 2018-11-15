@@ -33,7 +33,7 @@
               "view": "web"
             }
           }, {
-            "image": "https://github.com/BounaixVincent/test-jasonette/blob/master/Hamilton-Workplace.png",
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Workplace.png",
             "text": "Workplace",
             "href": {
               "url": "https://hamiltonapps.com/workplace/",
