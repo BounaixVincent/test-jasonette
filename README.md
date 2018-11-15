@@ -1,4 +1,6 @@
-# CONFIG
+#ANDROID STUDIO
+
+## CONFIG
 
  1) build.gradle : 
 
@@ -21,6 +23,7 @@
 
   res -> values -> strings.xml
 
-# ISSUES
+## ISSUES
 
-Images displayed in the footer are unicolored. Unlike our logos.
+-Images displayed in the footer are unicolored. Unlike our logos.
+-I don't know how to create a backward button
