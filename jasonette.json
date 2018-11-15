@@ -12,21 +12,21 @@
       "footer": {
         "tabs": {
           "items": [{
-            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton%20Meeting.ico",
             "text": "Meetings",
             "href": {
               "url": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/jasonette.json",
               "view": "jason"
             }
           }, {
-            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton%20Visitor.ico",
             "text": "Visitors",
             "href": {
               "url": "https://hamiltonapps.com/visitor-management-software-hamilton/",
               "view": "web"
             }
           }, {
-            "image": "https://raw.githubusercontent.com/BounaixVincent/test-jasonette/master/Hamilton-Meeting.png",
+            "image": "https://github.com/BounaixVincent/test-jasonette/blob/master/Hamilton%20Workplace.ico",
             "text": "Workplace",
             "href": {
               "url": "https://hamiltonapps.com/workplace/",
